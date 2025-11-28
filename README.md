@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm tsinsandro_</h1>
 
-- 🔭 I’m currently working on [Hybrix Hosting](https://hybrixland.fun/)
+- 🔭 I’m currently working on [Nuked MC](https://nukedmc.net/)
 
 - 📫 How to reach me **Discord: tsinsandro_**
 
